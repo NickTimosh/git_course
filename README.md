@@ -1,6 +1,5 @@
 # Курс
 
-Цей репозиторій містить корисні матеріали та рекомендації до серії відеоуроків на YouTube.
 
 
 ![chatgpt для EXCel (7) (1)](https://github.com/user-attachments/assets/67c87610-c682-4088-bf8a-1e3f3748195c)
